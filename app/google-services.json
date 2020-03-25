@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049626420115",
+    "firebase_url": "https://beez-rrby.firebaseio.com",
+    "project_id": "beez-rrby",
+    "storage_bucket": "beez-rrby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049626420115:android:c891fac86aa611c0a3fe66",
+        "android_client_info": {
+          "package_name": "com.rrby.beez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049626420115-pc0tnefkq0vds1fqj6dvjgiuemdfpj6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzSt2fBJ_yeJRqzxxNW6W3V1mujhqRsfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049626420115-pc0tnefkq0vds1fqj6dvjgiuemdfpj6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
